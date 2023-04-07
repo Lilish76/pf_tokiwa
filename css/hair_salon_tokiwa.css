@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500&display=swap');
+/* font-family: 'Zen Maru Gothic', sans-serif; */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    color: grey;
+    background-color: rgb(247, 242, 234);
+    /* background-color: rgba(255, 228, 196, 0.593); */
+}
+.wrapper{
+    /* border: 2px solid black; */
+}
+/* Header Area */
+div.logo{
+    /* border:2px solid pink; */
+    width: 100%;
+    height: 80%;
+    margin-left:5px;
+    /* background-color: rgba(255, 228, 196, 0.593); */
+}
+div.logo img{
+    width: 10%;
+}
+div.logo ul{
+    float:right;
+    font-size:15px;
+    margin-top:5px;
+    margin-right: 20px;
+    color: grey;
+    list-style: none;
+}
+/* Navigation Area */
+
+div.nav{
+    /* border:2px solid red; */
+    margin-left: 31%;
+}
+div.nav a{
+    margin: 15px;
+    color:grey;
+    font-size: 20px;
+}
+/* Banner Area */
+div.banner{
+    /* border:2px solid yellow; */
+    margin-top:10px;
+}
+div.container img{
+    width:100%;
+    /* height:800px; */
+    height: 850px;
+}
+div.container p{
+    font-size:60px;
+    color: brown;
+    left:70%;
+    position: absolute;
+    top:35%;
+    padding:0;
+    margin:0;
+      }
+/* Concept Area */
+  div.concept{
+    /* border:2px solid red; */
+    margin-left: 10px;
+    font-size: large;
+    color: grey;
+  }
+
+  div.concept img{
+    /* border: 2px solid green; */
+    width:40%;
+    height: 10%;
+  }
+  div.concept img.concept{
+    /* border: 2px solid green; */
+    width:40%;
+    height: 10%;
+    float: left;
+  }
+  div.concept p{
+    /* border: 2px  solid springgreen; */
+    text-align: left;
+  }
+  .con{
+    position: relative;
+    left:20px;
+  }
+  .con1{
+    position: relative;
+    left:20px;
+    top:10px;
+  }
+  .con2{
+    position: relative;
+    left:5px;
+  }
+  .pr{
+    position: relative;
+    left:20px;
+  }
+  div.concept p:nth-child(6){
+    /* border:2px solid blueviolet; */
+    position: relative;
+    left:20px;
+  }
+  div.concept p:nth-child(7){
+    /* border:2px solid blueviolet; */
+    position: relative;
+    left:20px;
+  }
+  div.concept p:nth-child(8){
+    /* border:2px solid blueviolet; */
+    position: relative;
+    left:20px;
+  }
+  div.concept img.staff{
+    /* border: 2px solid green; */
+    width:40%;
+    height: 20%;
+    float:left;
+  }
+
+  div.concept td{
+    /* border:2px solid blue; */
+    width: 50%;
+  }
+  /* Menu Area */
+  div.menu{
+    /* border:2px solid orange; */
+    margin-left: 10px;
+  }
+  div.menu img.products{
+    /* border: 2px solid yellow; */
+    width:280px;
+    height:280px;
+    float: left;
+  }
+  table li{
+    list-style: none;
+    margin-left:40px;
+    margin-bottom:5px;
+    font-size: large;
+  }
+  /* Access Area */
+  div.access{
+    /* border:2px solid orange; */
+    margin-left: 10px;
+  }
+  div.access ul{
+    /* border:2px solid red; */
+    width: 350px;
+  }
+  div.access img{
+    margin-left: 120px;
+  }
+  div.access iframe{
+    /* border:2px solid red; */
+    position:relative;
+    top:0;
+    right: 20px;
+  }
+  /* Footer Area */
+
+  div.footer{
+    /* border:2px solid pink; */
+    width: 100%;
+    height: 80%;
+    margin-left:20px;
+    /* background-color: rgba(255, 228, 196, 0.593); */
+}
+div.footer img{
+    width: 10%;
+    position: relative;
+    left:71%;
+}
+div.footer ul{
+    float:left;
+    font-size:15px;
+    margin-top:5px;
+    margin-right: 20px;
+    color: grey;
+    list-style: none;
+}
+
+
+
+  
